@@ -1,0 +1,10 @@
+{
+	"name": "partly-infinite-resources",
+	"version": "1.0.0",
+	"title": "Partly Infinite Resources",
+	"author": "thebigwasp",
+	"homepage": "https://github.com/thebigwasp/PartlyInfiniteResources",
+	"description": "Some parts of resource patches will contain infinite resources",
+	"factorio_version": "1.1",
+	"dependencies": []
+}
